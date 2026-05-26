@@ -1,15 +1,15 @@
 name: Generate Snake Animation
 
 on:
-  # 每天自动跑一次（UTC 时间 00:00）
   schedule:
     - cron: "0 0 * * *"
-  # 手动触发（第一次用这个）
   workflow_dispatch:
-  # 每次 push 也跑
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
