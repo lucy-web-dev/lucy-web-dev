@@ -145,12 +145,6 @@ Let creators **embed NFT galleries** on affiliate websites — blending **commer
 
 <div align="center">
 
-### 🛍️ TangyZen World
-[![TangyZen Main](https://img.shields.io/badge/🌸_TangyZen-Main_Site-FF6EC7?style=for-the-badge&logoColor=white)](https://tangyzen.com)
-[![TangyZen Forum](https://img.shields.io/badge/💬_TangyZen-Forum-a259ff?style=for-the-badge&logoColor=white)](https://forum.tangyzen.com)
-[![TangyZen Sellers](https://img.shields.io/badge/🏪_TangyZen-Sellers-FF6EC7?style=for-the-badge&logoColor=white)](https://sellers.tangyzen.com)
-[![TangyZen Links](https://img.shields.io/badge/🔗_TangyZen-All_Links-a259ff?style=for-the-badge&logoColor=white)](https://bit.ly/m/tangyzen)
-
 ### 📡 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-imnotlucy33-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/imnotlucy33)
 [![Instagram](https://img.shields.io/badge/Instagram-imnotlucy33-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imnotlucy33/)
